@@ -42,7 +42,7 @@ To run the program follow below instructions.
 You will find those files after downloading the whole dataset
 
 
-   ```py
+   ```python
 data1_path = '/consumer-reviews-of-amazon-products/1429_1.csv'
 data2_path = "/consumer-reviews-of-amazon-products/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv"
 data3_path = "/consumer-reviews-of-amazon-products/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv"
