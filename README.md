@@ -72,7 +72,7 @@ There are few things i would like to address in future.
 If you have other cool ideas regarding this, let me know also.
 
 ## Project Status
-I am still working on this to improve the model. I am following the **Road-map** mentioned above
+I am still working on this to improve the model. I am following the [Roadmap](#roadmap) mentioned above
 
 ## How to contribute
  Any kind of feedback on this is really appritiated. I shall be more than happy to have any pull request from smart people like you.
@@ -82,7 +82,7 @@ I am still working on this to improve the model. I am following the **Road-map**
 This project is distributed under the MIT License. See [LICENSE](LICENSE.md) file for more information.
 
 ## Contact
-- For any kind of help, support or suggestions feel free to knock me. <a href = "mailto: mali23@lakeheadu.ca">Send Email</a>
+For any kind of help, support or suggestions feel free to knock me. <a href = "mailto: mali23@lakeheadu.ca">Send Email</a>
 
 
 ## Acknowledgements
