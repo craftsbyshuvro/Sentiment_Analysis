@@ -37,14 +37,14 @@ User reviews surely play an important role for making decisions for customers wh
 ## Installation Instruction
 To run the program follow below instructions.
 
-- Download the dataset and place csv files into `src/data` directory. [Download Dataset Here](https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products/download)
+- Download the dataset and place csv files into `src/data` directory. [Download Dataset](https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products/download)
 - After downloading the whole dataset you will find 3 csv files. Set path of those files to the following variables located in this file [preporcessing.ipynb](src/preporcessing.ipynb)
 
 
 ```python
 data1_path = 'data/1429_1.csv'
-data2_path = "data/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv"
-data3_path = "data/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv"
+data2_path = 'data/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv'
+data3_path = 'data/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv'
 ```
 - Run all the cells of this file [preporcessing.ipynb](src/preporcessing.ipynb)
 This will export a csv file named `preprocessed-dataset.csv` in the base directory after doing necessary preprocessing. Preprocessing steps includes
