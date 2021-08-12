@@ -3,6 +3,7 @@
 
 User reviews surely play an important role for making decisions for customers whether to buy the product or not which impacts the overall sale of the platform. Owners of those platforms can analyze this review to improve their products. Here I proposed an approach which will help to do sentiment analysis of amazon product reviews. I used TF-ID features extraction technique to get the features from the text data. For classification I used Naıve bayes, KNN, Linear SVC and XGBoost. To reduce the computation time and memory I used the chi-square feature selection  technique which helped to reduce the computation time significantly.
 
+
 ![social](https://img.shields.io/github/followers/trevortomesh?style=social)![twitter](https://img.shields.io/twitter/follow/trevortomesh?style=social)![languages](https://img.shields.io/github/languages/count/craftsbyshuvro/research-methods-class)
 
 
