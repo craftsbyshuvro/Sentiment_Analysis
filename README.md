@@ -25,8 +25,8 @@ User reviews surely play an important role for making decisions for customers wh
 - Here are list of top files from this project
 
 ```
-- /src/01.Preporcessing.ipynb --> This file is responsible for preprocessing the dataset
-- /src/02.Classification.ipynb --> This file does the job for classification
+- /src/preporcessing.ipynb --> This file is responsible for preprocessing the dataset
+- /src/classification.ipynb --> This file does the job for classification
 - /src/data --> Here you can keep the dataset after downloading (Follow Installation Instruction)
 - img ----------> folder contains images for the readme
 ```
@@ -38,7 +38,7 @@ User reviews surely play an important role for making decisions for customers wh
 To run the program follow below instructions.
 
 - Download the dataset and place into src directory. [Download Dataset Here](https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products/download)
-- After downloading the whole dataset you will find 3 csv files. Set path of those files to the following variables located in this file [01.Preporcessing.ipynb](src/01.Preporcessing.ipynb)
+- After downloading the whole dataset you will find 3 csv files. Set path of those files to the following variables located in this file [preporcessing.ipynb](src/preporcessing.ipynb)
 
 
 ```python
@@ -46,7 +46,7 @@ data1_path = 'data/1429_1.csv'
 data2_path = "data/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv"
 data3_path = "data/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv"
 ```
-- Run all the cells of this file [01.Preporcessing.ipynb](src/01.Preporcessing.ipynb)
+- Run all the cells of this file [preporcessing.ipynb](src/preporcessing.ipynb)
 This will export a csv file named `preprocessed-dataset.csv` in the base directory after doing necessary preprocessing. Preprocessing steps includes
     -Data Cleaning
     -Removing Link
@@ -54,7 +54,7 @@ This will export a csv file named `preprocessed-dataset.csv` in the base directo
     -Removing Stop Word
     -Stemming
 
-- Then run all the cell of this file [02.Classification.ipynb](src/02.Classification.ipynb)
+- Then run all the cell of this file [classification.ipynb](src/classification.ipynb)
 This will use the preprocessed data from `preprocessed-dataset.csv` for further processing
     - It will vectorize the data using TF-IDF
     - It will oversample the dataset to balance the dataset
