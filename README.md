@@ -1,7 +1,7 @@
 # Analyzing Sentiment of Product Reviews (v 1.0)
 
 
-User reviews surely play an important role for making decisions for customers whether to buy the product or not which impacts the overall sale of the of e-commerce platforms. Owners of those platforms can analyze this review to improve their products. Here I proposed an approach which will help to do sentiment analysis of amazon product reviews. I used TF-ID features extraction technique to get the features from the text data. For classification I used Naıve bayes, KNN, Linear SVC and XGBoost classifier. To reduce the computation time and memory I used the chi-square feature selection technique which helped to reduce the computation time significantly.
+User reviews surely play an important role for making decisions for customers whether to buy the product or not which impacts the overall sale of the of business. Owners of those platforms can analyze this review to improve their products. Here I proposed an approach which will help to do sentiment analysis of amazon product reviews. I used TF-ID features extraction technique to get the features from the text data. For classification I used Naıve bayes, KNN, Linear SVC and XGBoost classifier. To reduce the computation time and memory I used the chi-square feature selection technique which helped to reduce the computation time significantly.
 
 
 
