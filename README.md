@@ -37,7 +37,7 @@ User reviews surely play an important role for making decisions for customers wh
 ## Installation Instruction
 To run the program follow below instructions.
 
-- Download the dataset and place csv files into 'src/data' directory. [Download Dataset Here](https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products/download)
+- Download the dataset and place csv files into `src/data` directory. [Download Dataset Here](https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products/download)
 - After downloading the whole dataset you will find 3 csv files. Set path of those files to the following variables located in this file [preporcessing.ipynb](src/preporcessing.ipynb)
 
 
