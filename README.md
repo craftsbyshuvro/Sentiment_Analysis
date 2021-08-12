@@ -42,9 +42,9 @@ To run the program follow below instructions.
 
 
 ```python
-data1_path = '/consumer-reviews-of-amazon-products/1429_1.csv'
-data2_path = "/consumer-reviews-of-amazon-products/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv"
-data3_path = "/consumer-reviews-of-amazon-products/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv"
+data1_path = 'data/1429_1.csv'
+data2_path = "data/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv"
+data3_path = "data/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv"
 ```
 - Run all the cells of this file [01.Preporcessing.ipynb](src/01.Preporcessing.ipynb)
 This will export a csv file named `preprocessed-dataset.csv` in the base directory after doing necessary preprocessing. Preprocessing steps includes
@@ -59,8 +59,8 @@ This will use the preprocessed data from `preprocessed-dataset.csv` for further 
     - It will vectorize the data using TF-IDF
     - It will oversample the dataset to balance the dataset
     - Split the whole dataset in 80:20 ratio which will be used for Training and Testing
-    - It will use GridSearch with 5-Fold Cross validation to finetune the hyperparameters of the classifiers
-    - At last it will evaluate the model with Test dataset and output the Training Time, Accuray, Precision, Recall & F1-Score
+    - It will use GridSearch with 5-Fold Cross validation to fine tune the hyperparameters of the classifiers
+    - At last it will evaluate the model with Test dataset and print the Training Time, Accuray, Precision, Recall & F1-Score in output cells
 
 
 ## Roadmap
