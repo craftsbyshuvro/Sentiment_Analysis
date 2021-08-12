@@ -41,8 +41,7 @@ To run the program follow below instructions.
 - Set path to the following variables in this file [01.Preporcessing.ipynb](src/01.Preporcessing.ipynb)
 You will find those files after downloading the whole dataset
 
-
-   ```python
+```python
 data1_path = '/consumer-reviews-of-amazon-products/1429_1.csv'
 data2_path = "/consumer-reviews-of-amazon-products/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv"
 data3_path = "/consumer-reviews-of-amazon-products/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv"
