@@ -22,7 +22,7 @@ User reviews surely play an important role for making decisions for customers wh
 
 ## Manifest
 
-- Here are list of top files from this project
+Here are list of top files from this project
 
 ```
 - /src/preporcessing.ipynb --> This file is responsible for preprocessing the dataset
