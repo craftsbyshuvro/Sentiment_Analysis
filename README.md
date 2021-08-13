@@ -48,11 +48,11 @@ data3_path = 'data/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv'
 ```
 - Run all the cells of this file [preporcessing.ipynb](src/preporcessing.ipynb)
 This will export a csv file named `preprocessed-dataset.csv` in the base directory after doing necessary preprocessing. Preprocessing steps includes
-    -Data Cleaning
-    -Removing Link
-    -Remove Tags
-    -Removing Stop Word
-    -Stemming
+-Data Cleaning
+-Removing Link
+-Remove Tags
+-Removing Stop Word
+-Stemming
 
 - Then run all the cell of this file [classification.ipynb](src/classification.ipynb)
 This will use the preprocessed data from `preprocessed-dataset.csv` for further processing
