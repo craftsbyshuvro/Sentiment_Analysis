@@ -55,7 +55,7 @@ This will export a csv file named `preprocessed-dataset.csv` in the base directo
     - Stemming
 
 - Then run all the cell of this file [classification.ipynb](src/classification.ipynb)
-This will use the preprocessed data from `preprocessed-dataset.csv` for further processing
+This will use the preprocessed data from `preprocessed-dataset.csv` for further processing. Further processing includes
     - It will vectorize the data using TF-IDF
     - It will oversample the dataset to balance the dataset
     - Split the whole dataset in 80:20 ratio which will be used for Training and Testing
