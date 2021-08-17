@@ -86,8 +86,6 @@ For any kind of help, support or suggestions feel free to knock me. <a href = "m
 
 
 ## Acknowledgements
-Till now i am the only person who contributed to this project. If you are interested to join. Fell free to knock me. <a href = "mailto: mali23@lakeheadu.ca">Email</a>
-
 Here are few resources which i followed while developing this project.
 
 01. https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
