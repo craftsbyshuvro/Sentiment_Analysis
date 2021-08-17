@@ -88,7 +88,7 @@ For any kind of help, support or suggestions feel free to knock me. <a href = "m
 ## Acknowledgements
 I want to acknowledge the help provided by my course instructor <a href ="https://github.com/trevortomesh">Dr. Trevor Tomesh</a> who helped me throughout the course. Besides, I also want to give special thanks to  my close friends who assisted me in completing the project.
 
-Besides, Here are few resources which i followed while developing this project.
+Here are few resources which i followed while developing this project.
 
 01. https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
 
